@@ -1,0 +1,23 @@
+Bibliografia
+Guisao Baena, Y., Suescún Monsalve, E., Noreña Cardona, P. & Pardo, C. (2026). Toward Platform Engineering, the Evolution of DevOps—A Systematic Mapping. Journal of Software: Evolution and Process, 38(4), e70108. DOI: 10.1002/smr.70108.
+Pitkar, H. (2026). Platform Engineering and Developer Experience: A Systematic Review of Concepts, Benefits and Future Directions. World Journal of Advanced Engineering Technology and Sciences, 18(2), 241–248. DOI: 10.30574/wjaets.2026.18.2.0112.
+Anjum, M. M. A. (2026). Platform Engineering and Internal Developer Portals: a Multivocal Literature Review. Frontiers in Computer Science, 8:1814498. DOI: 10.3389/fcomp.2026.1814498.
+Seknametla, P. R. & Sunkara, R. (2023). Platform Engineering and Internal Developer Platforms: Measuring Cognitive Load Reduction and Developer Productivity in Self-Service Infrastructure Models. International Journal of Computer Techniques, 10(4), ISSN 2394-2231. (Disponível em ijctjournal.org).
+Allam, H. (2022). Platform Engineering as a Service: Streamlining Developer Experience in Cloud Environments. Intl. Journal of Emerging Research in Engineering and Technology, 9(3):50-59. DOI: 10.63282/3050-922X.IJERET-V3I3P106.
+Oliveira, L. et al. (2026). O impacto da engenharia de plataforma na produtividade e experiência do desenvolvedor. Revista E&S – Engenharia e Sistemas, n.p. (2026). Resumo disponível online.
+van de Kamp, R., Bakker, K. C. & Zhao, Z. (2024). Paving the path towards platform engineering using a comprehensive reference model. In: Enterprise Design, Operations, and Computing (EDOC 2023). DOI: 10.1007/978-3-031-54712-6_11. (Resumido em Zenodo [48]).
+CIANCARINI, Paolo et al. The Design and Realization of a Self-Hosted and Open-Source Agile Internal Development Platform. IEEE Access, 2025, v. 13, p. 79516–79533. DOI: 10.1109/ACCESS.2025.3564141.
+ANJUM, Mateen Ali. Platform engineering and internal developer portals: a multivocal literature review. Frontiers in Computer Science, v. 8, 2026. DOI: 10.3389/fcomp.2026.1814498. Disponível em: Frontiers in Computer Science
+CIANCARINI, Paolo et al. The design and realization of a self-hosted and open-source agile internal development platform. IEEE Access, v. 13, p. 79516-79533, 2025. DOI: 10.1109/ACCESS.2025.3564141. Disponível em:  IEE Xplore
+
+GREILER, Michaela; STOREY, Margaret-Anne; NODA, Abi. An actionable framework for understanding and improving developer experience. IEEE Transactions on Software Engineering, v. 49, n. 4, p. 1411-1425, 2023. DOI: 10.1109/TSE.2022.3175660. Disponível em: IEE Xplore
+
+NIEMINEN, Veikko. Internal Developer Platform. 2024. Dissertação (Mestrado) – Tampere University, Tampere, 2024. Disponível em: Repositório da Tampere University 
+
+Backstage Software Catalog. Instituição/projeto: Backstage. Ano: documentação consultada em 2026. Endereço: https://backstage.io/docs/features/software-catalog/. Justificativa: documentação oficial para a parte de catálogo de software e organização de serviços.
+Backstage Software Templates. Instituição/projeto: Backstage. Ano: documentação consultada em 2026. Endereço: https://backstage.io/docs/features/software-templates/. 
+
+Notícia recente: “CNCF and SlashData Report Finds Platform Engineering Tools Maturing as Organizations Prepare for AI-Driven Infrastructure”. Instituição: Cloud Native Computing Foundation (CNCF). Data: 24 de março de 2026. Endereço: https://www.cncf.io/announcements/2026/03/24/cncf-and-slashdata-report-finds-platform-engineering-tools-maturing-as-organizations-prepare-for-ai-driven-infrastructure/. Justificativa: publicação institucional da CNCF sobre uma pesquisa com mais de 400 desenvolvedores profissionais e sobre a avaliação de ferramentas de platform engineering. A data está dentro dos 12 meses anteriores à pesquisa.
+
+Vídeo de apoio: Platform Engineering for Software Developers and Architects — Daniel Bryant, Syntasso; CNCF, 2024.
+Justificativa: vídeo técnico que apresenta conceitos de Platform Engineering, arquitetura de plataformas, impacto no ciclo de desenvolvimento de software e métricas relacionadas à experiência do desenvolvedor. 
